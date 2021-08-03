@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AIDemo</string>
+    <string name="detect_objects">Detect objects</string>
+    <string name="cd_close_app_btn">Close application</string>
+    <string name="cd_flash_btn">Toggle camera flash</string>
+    <string name="cd_latest_photo">Latest photo thumbnail</string>
+    <string name="loading">Loading…</string>
+    <string name="permission_error_title">Permissions not granted!</string>
+    <string name="permission_error_msg">If you want to use this feature, you have to allow app to make photos!</string>
+    <string name="allow">Allow</string>
+    <string name="cancel">Cancel</string>
+    <string name="image_capture_error">There was an error with capturing the image, try again in a moment!</string>
+</resources>
