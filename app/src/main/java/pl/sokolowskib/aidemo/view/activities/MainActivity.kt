@@ -325,7 +325,7 @@ class MainActivity : AppCompatActivity() {
         scaleRectangles(detectionResults, scale, Float.MAX_VALUE, Float.MAX_VALUE)
     }
 
-    @SuppressLint("RestrictedApi")
+    @SuppressLint("RestrictedApi", "NewApi")
     private fun scaleRectanglesToDisplay(
         detectionResults: ArrayList<DetectionResult>, isDetectionCaptured: Boolean
     ) {
